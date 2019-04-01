@@ -4,8 +4,8 @@ class App < Sinatra::Base
 
   get '/' do
 
-    'This is a test for shotgun!'
+    'Hello World!'
   end
-  
+
 
 end
